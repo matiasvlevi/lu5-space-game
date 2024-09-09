@@ -1,8 +1,15 @@
 # Space Game
 
+This simple game is written in lua for the [lu5](https://matiasvlevi.github.io/lu5) interpreter.
+
+
+<p align="center">
+    <img src="./assets/space_game.gif" width="500px">
+</p>
+
 # Dependencies
 
-* lu5 [see here](https://matiasvlevi.github.io/lu5)
+* The `lu5` interpreter [see how to install here](https://matiasvlevi.github.io/lu5)
 
 # Run
 
