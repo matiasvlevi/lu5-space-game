@@ -4,7 +4,7 @@ This simple game is written in lua for the [lu5](https://matiasvlevi.github.io/l
 
 
 <p align="center">
-    <img src="./assets/space_game.gif" width="500px">
+    <img src="./assets/space_game.gif" width="400px">
 </p>
 
 # Dependencies
